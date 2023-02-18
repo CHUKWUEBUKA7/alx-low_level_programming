@@ -8,7 +8,8 @@
  * main - Entry point
  *
  * Returm: Always 0 (success)
- */
+*/
+
 int main(void)
 {
 	int n;
